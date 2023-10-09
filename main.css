@@ -1,0 +1,42 @@
+.nameinput {
+    position:absolute;
+    border-radius:4px;
+    border-style:none;
+    background-color:antiquewhite;
+    height:30px;
+    width:300px;
+    margin-top:150px;
+    margin-left:41%;
+}
+
+.textinput {
+    position:absolute;
+    border-radius:4px;
+    border-style:none;
+    background-color:antiquewhite;
+    height:170px;
+    width:300px;
+    margin-top:200px;
+    margin-left:41%;
+    resize:none;
+}
+
+.send {
+    position:absolute;
+    border-radius:4px;
+    border-style:none;
+    background-color:antiquewhite;
+    height:30px;
+    width:150px;
+    margin-top:390px;
+    margin-left:45%;
+    transition:1s;
+}
+
+.send:hover {
+
+    height:35px;
+    width:145px;
+    background-color:pink;
+
+}
